@@ -1,8 +1,8 @@
 ## quirk.io is a series of projects that solve the <a href="https://medium.com/swlh/a-unified-theory-of-decentralization-151d6f39e38">9 Problems of Decentralization</a>
 
 Projects:
-- qPeer: A network stack to build Decentralized apps
-- Endpoint: A portforwarding lib
+- <b>qPeer</b>: A network stack to build Decentralized apps
+- <b>Endpoint</b>: A portforwarding lib
 
 We've <b>solved</b>:
 
