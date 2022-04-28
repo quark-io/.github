@@ -1,4 +1,4 @@
-quirk.io is a series of projects that solve the <a href="https://medium.com/swlh/a-unified-theory-of-decentralization-151d6f39e38">9 Problems of Decentralization</a>
+## quirk.io is a series of projects that solve the <a href="https://medium.com/swlh/a-unified-theory-of-decentralization-151d6f39e38">9 Problems of Decentralization</a>
 
 Projects:
 - qPeer: A network stack to build Decentralized apps
